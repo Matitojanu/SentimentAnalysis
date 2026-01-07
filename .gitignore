@@ -1,8 +1,2 @@
 # Streamlit
 .streamlit/secrets.toml
-
-# project
-clustering/
-topic_modelling/
-wordclouds/
-ngrams/

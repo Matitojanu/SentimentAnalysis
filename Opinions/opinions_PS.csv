@@ -1,4 +1,4 @@
-"product_name","opinion_id","sentiment","opinion"
+product_name,opinion_id,sentiment,opinion
 "The Witcher 3: Wild Hunt","1","Positive","The best RPG ever made. Period."
 "The Witcher 3: Wild Hunt","2","Positive","I came for the monsters, I stayed for the Gwent."
 "The Witcher 3: Wild Hunt","3","Positive","The story writing sets a bar that other games still haven't reached years later."
